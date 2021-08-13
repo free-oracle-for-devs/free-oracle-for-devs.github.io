@@ -1,2 +1,1 @@
-# free-oracle-for-devs.github.io
-GitHub.io Page Redirect
+Redirect to https://github.com/free-oracle/free-oracle.github.io.
